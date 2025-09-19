@@ -19,3 +19,5 @@ djview
 djvulibre
 google-chrome
 npm
+joplin-bin
+transmission-gtk
