@@ -21,3 +21,5 @@ google-chrome
 npm
 joplin-bin
 transmission-gtk
+joe
+wordgrinder
